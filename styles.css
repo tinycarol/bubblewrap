@@ -53,6 +53,7 @@ body {
   box-shadow: 0 5px 0 rgba(240, 240, 240, 0.5);
   position: relative;
   top: -5px;
+  transition: box-shadow 100ms ease, top 100ms ease;
 }
 
 .bubble:hover {
