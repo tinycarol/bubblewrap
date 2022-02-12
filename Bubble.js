@@ -1,4 +1,4 @@
-const MODES = ["a", "b", "c", "d", "e", "f", "g"];
+const MODES = ["a", "b", "c", "d", "e", "f"];
 
 class Bubble {
   constructor(sound, parent, sibling) {

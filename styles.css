@@ -193,10 +193,6 @@ body {
   );
 }
 
-.bubble.g::before {
-  background-color: transparent;
-}
-
 button.mute {
   position: fixed;
   right: 5px;
