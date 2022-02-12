@@ -55,9 +55,17 @@ body {
   top: -5px;
 }
 
+.bubble:hover {
+  cursor: pointer;
+}
+
 .bubble.burst {
   box-shadow: none;
   top: 0px;
+}
+
+.bubble.burst:hover {
+  cursor: default;
 }
 
 .bubble::after {
